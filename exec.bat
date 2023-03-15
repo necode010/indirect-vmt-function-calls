@@ -1,0 +1,1 @@
+clang++ main.cpp -o test.exe -Wno-invalid-offsetof
